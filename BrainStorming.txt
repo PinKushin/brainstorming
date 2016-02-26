@@ -1,0 +1,21 @@
+//Genre
+top-down
+rpg
+twin-stick shooter
+acceleratable auto scroller
+platformer
+Stealth
+
+
+//Setting
+Wild West
+Space
+Mideviel
+Mall
+City
+Modern
+
+//Misc
+Slug Wars
+Kitten-Ninja
+Cat Takover the world
