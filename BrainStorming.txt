@@ -1,10 +1,13 @@
 //Genre
 top-down
-rpg
+rpg 
 twin-stick shooter
 acceleratable auto scroller
 platformer
 Stealth
+Adventure
+MetroidVania
+Dungeon Crawler
 
 
 //Setting
@@ -17,6 +20,7 @@ Modern
 
 //Mechanics
 Rocket Jumping/Shunting
+procedurally generated toggle
 
 
 //Misc
