@@ -9,7 +9,6 @@ Adventure
 MetroidVania
 Dungeon Crawler
 
-
 //Setting
 Wild West
 Space
@@ -21,10 +20,12 @@ Modern
 //Mechanics
 Rocket Jumping/Shunting
 procedurally generated toggle
-
+Flatten ledges
 
 //Misc
 Slug Wars
 Kitten-Ninja
 Cat Takover the world
 player aliens trying to blow up the earth
+Dr. Jekyl and Mr. Hyde
+FTL style Pirate game
